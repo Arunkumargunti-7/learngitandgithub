@@ -1,14 +1,9 @@
-HEAD
+
 Hi 
 Hello 
 learn GitHub daily
-<<<<<<< HEAD
-
 So you want to learn Git?
-
-=======
 Yes 
->>>>>>> f1693a23817148cea1fe0cba4cde0be864646035
 Congratulations
 you updated code
-ea1f2d5 (Commit)
+
