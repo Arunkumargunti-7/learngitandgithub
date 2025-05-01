@@ -3,6 +3,8 @@ Hi
 Hello 
 learn GitHub daily
 
+So you want to learn Git?
+
 Congratulations
 you updated code
 ea1f2d5 (Commit)
